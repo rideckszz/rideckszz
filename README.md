@@ -39,9 +39,12 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derick-andrighetti/)
 
 ---
+<h3 align="center">
+  🛠 Languages and Tools
+</h3>
 
-#### :hammer_and_wrench: Languages and Tools:
-<div>
+##### Backend:
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40"/>&nbsp;
@@ -50,6 +53,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git"  width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity"  width="40" height="40"/>&nbsp;
 </div>
+
+### :
 
 ### :fire: My Stats:
 
