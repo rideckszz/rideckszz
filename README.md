@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzdtOGhqMHc2cXJlZWtrOW45eXV1czlsam5hZjA4N3A4Z3Nzb3ptdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LwpUVhuXex674BFp8j/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2lxYXY2eHF1OHpvNmZrcXQ3N2E4eDR6OHV0andwNzFuYzB2MGJ6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R1MYZBEos2qyI/giphy.gif" width="100"/>
 </div>
 
 <div id="badges" align= "center">
@@ -28,7 +28,7 @@
 ---
 
 #### :man_technologist: About Me:
-- :telescope: I’m working as a researcher at RExLab - Laboratórios de Experiências Remotas
+- 🥼 I’m working as a researcher at RExLab - Laboratórios de Experiências Remotas
 
 - :seedling: Cybersecurity is my passion and obcession
 
@@ -43,13 +43,18 @@
   🛠 Languages and Tools
 </h3>
 
-##### Backend:
-<div align="center">
-  <img src="![](https://icons.anoyi.com/?iconBgColor=4b5563&icons=python,java, c++, c, csharp, django, bash, arduino, lua, javascript)"title="Tools"/>&nbsp
+#### Backend:
+![](https://icons.anoyi.com/?iconBgColor=4b5563&icons=python,java,c++,c,csharp,django,bash,arduino,lua,javascript)
 
-</div>
 
-### :
+#### Frontend:
+![](https://icons.anoyi.com/?iconBgColor=4b5563&icons=html5,css3,react,typescript)
+
+#### Servers and Cloud:
+![](https://icons.anoyi.com/?iconBgColor=4b5563&icons=aws,azure,cloudflare,nginx)
+
+#### My Favorite Tools:
+![](https://icons.anoyi.com/?iconBgColor=4b5563&icons=figma,github,linux,docker,kubernetes,notion,raspberrypi,unity,vscode)
 
 ### :fire: My Stats:
 
