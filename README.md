@@ -36,6 +36,8 @@
 
 - :heart: I'm always open to learning
 
+- ✨ I love making scripts to automate the things I do
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derick-andrighetti/)
 
 ---
