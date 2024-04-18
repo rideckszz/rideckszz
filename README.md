@@ -63,4 +63,4 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rideckszz&theme=midnight-purple&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ### :heart: Top Langs:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ridecksszz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
