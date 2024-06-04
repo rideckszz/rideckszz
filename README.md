@@ -28,8 +28,8 @@
 ---
 
 #### :man_technologist: About Me:
-- 🥼 I’m working as a researcher at RExLab - Laboratórios de Experiências Remotas
-
+- 🥼 I serve as a volunteer researcher at RExLab 
+- 👔 I am currently employed as a cybersecurity analyst at Bridge Laboratory
 - :seedling: Cybersecurity is my passion and obcession
 
 - :zap: In my free time, I solve CTF and read tech articles about the sec-world.
