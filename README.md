@@ -28,8 +28,7 @@
 ---
 
 #### :man_technologist: About Me:
-- 🥼 I serve as a volunteer researcher at RExLab 
-- 👔 I am currently employed as a cybersecurity analyst at Bridge Laboratory
+- 🥼 I research cybersecurity and self-protecting networks at Unicamp, being a member of the Computer Networks Laboratory
 - :seedling: Cybersecurity is my passion and obcession
 
 - :zap: In my free time, I solve CTF and read tech articles about the sec-world.
