@@ -59,7 +59,6 @@
 
 ### :fire: My Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rideckszz)](https://git.io/streak-stats)
-
+![Stats](./profile/stats.svg)
 ### :heart: Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rideckszz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
